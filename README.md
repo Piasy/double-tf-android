@@ -15,7 +15,7 @@ allprojects {
     }
 }
 
-compile 'com.github.piasy:double-tf-android:1.0.0-nightly-124@aar'
+compile 'com.github.piasy:double-tf-android:1.0.0-nightly-125@aar'
 ```
 
 ## Usage
