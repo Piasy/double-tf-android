@@ -1,3 +1,5 @@
+# [Deprecated, checkout https://bintray.com/google/tensorflow/tensorflow-android]
+
 # double-tf-android
 
 A pure Gradle port of the TensorFlow library for Android! Publish [the nightly build of TensorFlow CI](http://ci.tensorflow.org/view/Nightly/job/nightly-android/). The name of this repo is inspired by [JakeWharton/double-espresso](https://github.com/JakeWharton/double-espresso).
